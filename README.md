@@ -1,4 +1,4 @@
-🏨 swg_motels by Redizin
+🏨 swg_motels by redesign
 A modern, immersive motel system for FiveM with full business management, instance support, and configurable features — powered by ox_lib.
 
 
