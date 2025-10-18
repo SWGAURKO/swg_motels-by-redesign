@@ -58,10 +58,11 @@ ox_lib (for UI, notifications, targeting, interaction, etc.)
 
 Inventory Compactible:
 
-ox_inventory
-qb-inventory
-qs-inventory
-codem-inventory
+ox_inventory</br>
+qb-inventory</br>
+qs-inventory</br>
+codem-inventory</br>
+
 
 Database:
 
