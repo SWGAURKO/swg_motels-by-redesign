@@ -1,11 +1,8 @@
-🏨 swg_motels by redesign
-A modern, immersive motel system for FiveM with full business management, instance support, and configurable features — powered by ox_lib.
+ swg_motels by redesign A modern, immersive motel system for FiveM with full business management, instance support, and configurable features — powered by ox_lib.
 
+pv:
 
-pv: 
-
-✅ Features
-🏢 Player Motel Business Management
+ Features  Player Motel Business Management
 
 Set hourly rental rates
 
@@ -13,46 +10,45 @@ Hire/fire motel employees
 
 Add or kick room occupants
 
-🕒 Hourly Rental System
+ Hourly Rental System
 
 Players pay for hourly stays
 
 Auto room release on time expiry
 
-🧑‍🤝‍🧑 Configurable Room Occupancy
+ Configurable Room Occupancy
 
 Set a max number of occupants per room
 
-📦 Shared or Unique Room Stashes
+ Shared or Unique Room Stashes
 
 Configure stash per player or shared (can be raided/stolen)
 
-🚓 Police Break-In Support
+ Police Break-In Support
 
 Cops can shoot door to break in
 
-🧰 Lockpickable Doors
+ Lockpickable Doors
 
 Add criminal gameplay for access
 
-🏘️ Supports MLOs and Shell Interiors
+ Supports MLOs and Shell Interiors
 
 Compatible with various interior types
 
-👕 Wardrobe Integration
+ Wardrobe Integration
 
 Supports multiple skin resources (illenium-appearance, fivem-appearance, etc.)
 
-🎯 Supports Targeting or Zones
+ Supports Targeting or Zones
 
 Choose between ox_target, qb-target, or drawtext/zone-based markers
 
-🔑 Metadata-based Key Sharing
+ Metadata-based Key Sharing
 
 Physical key items with metadata for sharing access
 
-📦 Dependencies
-Framework:
+ Dependencies Framework:
 
 ESX or QBCore
 
@@ -60,19 +56,21 @@ Library:
 
 ox_lib (for UI, notifications, targeting, interaction, etc.)
 
-Inventory:
+Inventory Compactible:
 
-ox_inventory or qb-inventory
+ox_inventory
+qb-inventory
+qs-inventory
+codem-inventory
 
 Database:
 
 oxmysql
 
-🧩 Interactions
-Fully integrated with ox_lib interactions:
+ Interactions Fully integrated with ox_lib interactions:
 
 lib.registerContext for menus
 
 lib.showContextMenu, lib.notify, lib.progressBar
 
-lib.zones and lib.points for zone interactions
+lib.zones and lib.points for zone interactions 
