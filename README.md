@@ -36,7 +36,7 @@ Add criminal gameplay for access
 
 Compatible with various interior types
 
-interior:https://github.com/darktrovx/interact
+
 
  Wardrobe Integration
 
